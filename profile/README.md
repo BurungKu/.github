@@ -64,7 +64,6 @@ Silakan gunakan sitasi resmi berikut jika menyebut dataset di makalah atau dokum
 Repository: https://github.com/HugoTian/iNatLoc  
 (Atau sesuai format sitasi akademik)
 
-Contoh BibTeX:
 ```bibtex
 @misc{inatloc2023,
   title        = {iNatLoc: A Benchmark for Fine-Grained Local Bird Classification},
