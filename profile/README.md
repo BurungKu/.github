@@ -1,4 +1,6 @@
-# 🐦 BurungKu  
+# BurungKu  
+![Preview](https://github.com/user-attachments/assets/be4b9337-3354-449e-80de-72e7bd84daef)
+
 **Identifikasi Spesies Burung & Analisis Kesehatan dari Kicauan — Powered by AI**
 
 BurungKu adalah aplikasi kecerdasan buatan yang dirancang untuk membantu pecinta burung, peneliti, hingga masyarakat umum dalam **mengidentifikasi spesies burung dari gambar**, serta **mendeteksi kondisi burung dari kicauannya**.  
@@ -70,3 +72,10 @@ Contoh BibTeX:
   year         = {2023},
   url          = {https://github.com/HugoTian/iNatLoc},
 }
+```
+
+## Dokumentasi Front-End
+Dokumentasi lengkap bisa dilihat dengan klik [disini](https://github.com/BurungKu/burungku-front-end)
+
+## Dokumentasi Back-End
+Dokumentasi lengkap bisa dilihat dengan klik [disini](https://github.com/BurungKu/burungku-back-end)
