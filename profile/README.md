@@ -8,6 +8,15 @@ Aplikasi ini juga memiliki visi jangka panjang sebagai platform konservasi dan e
 
 ---
 
+## 📝 Pitch Deck
+Untuk melihat presentasi singkat pada project BurungKu, dapat diakses dengan cara klik [disini](https://drive.google.com/file/d/1Fsty51DgTdiGA6RIpIAOO6o96FdASi8w/view)
+
+## 🎥 Demo Aplikasi
+![Preview](https://github.com/user-attachments/assets/7cd92382-0055-4f94-861f-33006721d7a6)
+<p align="center">
+ Full demo aplikasi dapat dilihat <a href="https://www.youtube.com/watch?v=TYYIgccvk44">disini</a>
+</p>
+
 ## 🚀 Fitur Utama
 
 ### 🔍 1. Deteksi Spesies dari Gambar  
@@ -73,8 +82,8 @@ Repository: https://github.com/HugoTian/iNatLoc
 }
 ```
 
-## Dokumentasi Front-End
+## 💻 Dokumentasi Front-End
 Dokumentasi lengkap bisa dilihat dengan klik [disini](https://github.com/BurungKu/burungku-front-end)
 
-## Dokumentasi Back-End
+## ⚙️ Dokumentasi Back-End
 Dokumentasi lengkap bisa dilihat dengan klik [disini](https://github.com/BurungKu/burungku-back-end)
